@@ -36,7 +36,7 @@
     "express-swaggerize-ui": "^1.1.0",
     "helmet": "^3.15.0",
     "http-errors": "^1.7.2",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "jwt-simple": "^0.5.6",
     "knex": "^0.15.2",
     "lodash": "^4.17.11",
